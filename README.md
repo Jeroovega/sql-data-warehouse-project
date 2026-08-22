@@ -1,4 +1,4 @@
-# Data Warehouse para LuzuTV y Olga. 🚀
+# Data Warehouse para datos de LuzuTV y Olga. 🚀
 Construcción de un Data Warehouse moderno con PostgreSQL, incluyendo procesos ETL, modelado de datos y analíticas.
 Bienvenidx al repositorio del proyecto de Data Warehouse en el ecosistema de canales de streaming.
 
@@ -6,7 +6,7 @@ Este proyecto presenta una solución de almacenamiento y análisis de datos, que
 
 Organización de datos a **gran escala** en el ecosistema de canales de streaming. Se busca aplicar las medidas, estrategias, arquitecturas y modelados de empresas con alto desarrollo en el área de datos.
 
-## ☑️ Descripción general del proyecto.
+## 📌 Descripción general del proyecto.
 
 Este proyecto incluye:
 
@@ -17,15 +17,11 @@ Este proyecto incluye:
 
 ### | Preguntas Principales
 
-Un Data Warehouse es importantísimo, por el simple motivo de tener tus datos constantemente actualizandose. Imagináte diferentes equipos trabajando a la vez en por ejemplo,
+Un Data Warehouse es importantísimo, por el simple motivo de tener tus datos constantemente actualizandose. Imagináte diferentes equipos trabajando a la vez en por ejemplo.
 
-1. En un Excel 
-2. En un PowerPoint 
-3. En un analisis
+`En un Excel | En un PowerPoint | En un analisis`
 
-Es importante que esas personas tengan la misma versión de los datos, ya que sino siempre habría discrepancias entre los reportes. Esto en el área de streaming es importante ya que las estadísticas en plataformas como Youtube se actualizan constantemente.
-
-Y un plus, todo este proceso de actualización de los datos constantemente se encuentra automatizado, por lo que no hay pasos manuales lo que reduce errores y lo acelera.
+Es importante que esas personas tengan la misma versión de los datos, ya que sino siempre habría discrepancias entre los reportes. Esto en el área de streaming es importante ya que las estadísticas en plataformas como Youtube se actualizan constantemente. Y un plus, todo este proceso de actualización de los datos constantemente se encuentra automatizado, por lo que no hay pasos manuales lo que reduce errores y lo acelera.
 
 - **Qué es un Data Warehouse?**
     
@@ -85,11 +81,12 @@ Desarrollar análisis basados en **SQL** para obtener información detallada sob
 Estos análisis permitirán transformar las métricas obtenidas de YouTube en **información útil para comprender el comportamiento de la audiencia y apoyar la toma de decisiones**.
 
 ---
-
 ## ☕ Contacto
 
 Si te interesó el proyecto, tenés alguna consulta o sugerencia, o representás a alguna de las organizaciones mencionadas y querés solicitar modificaciones o la eliminación de alguna referencia, no dudes en comunicarte conmigo.
 
-🔗`Linkedin`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeronimo-vega/)
 
 📩 `jerovegadev@gmail.com`
+
+---
